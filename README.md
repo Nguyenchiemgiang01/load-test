@@ -11,7 +11,9 @@ Test plan: Website load test
 
   Result:
     • Average response time: 3932 ms
+    
     • Throughput: 32 requests/s
+    
     • Error rate: 30%
     
 Test plan 2: Database load test
@@ -20,6 +22,8 @@ Test plan 2: Database load test
 
   Result:
     • Average response time: 795 ms
+    
     • Throughput: 114 responses/s
+    
     • Error rate: 10%
 
